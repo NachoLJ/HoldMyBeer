@@ -3,7 +3,7 @@
 
 ## Goal
 
-App that recommends the best beers for what you are eating, giving you the description, ABV%, the image and the brewer tips, to enjoy the beer to the fullest.
+This App recommends the best beers for what you are eating, giving you the description, ABV%, the image and the brewer tips, to enjoy your beer to the fullest.
 
 ## Screen 1
 Main screen in which the user can type the food they want to get a beer recomendation for.

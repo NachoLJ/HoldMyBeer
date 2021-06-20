@@ -13,8 +13,8 @@ This screen shows a little text animation
 
 
 ## Screen 2
-This screen shows a simple list with the best beers for the given food, with the name and the ABV%
-There is also 2 buttons to sort the list ascending or descending according to the ABV%
+This screen shows a simple list with the best beers for the given food, with the name and the ABV%.
+There is also 2 buttons to sort the list ascending or descending according to the ABV%.
 
 <img width="323" alt="Captura de pantalla 2021-06-20 a las 23 58 59" src="https://user-images.githubusercontent.com/46522592/122690807-de4dcf00-d22b-11eb-8fb7-f7541ff6d837.png">
 

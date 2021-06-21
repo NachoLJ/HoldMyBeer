@@ -7,7 +7,7 @@ This App recommends the best beers for what you are eating, giving you the descr
 
 ## Screen 1
 Main screen in which the user can type the food they want to get a beer recomendation for.
-This screen shows a little text animation
+This screen has a little text animation for the question.  
 <img width="329" alt="Captura de pantalla 2021-06-20 a las 23 57 29" src="https://user-images.githubusercontent.com/46522592/122690622-f5d88800-d22a-11eb-8790-b62aed7c4d7f.png">
 <img width="321" alt="Captura de pantalla 2021-06-20 a las 23 58 28" src="https://user-images.githubusercontent.com/46522592/122690632-07219480-d22b-11eb-9148-65856073e7d3.png">
 
